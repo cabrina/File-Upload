@@ -1,0 +1,1 @@
+// Her skal model/schema være HVIS der skal kobls MongoDB på
